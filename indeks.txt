@@ -1,2 +1,2 @@
 ini pengen bikin conflict merge
- (tambahin biar komit)
+ (tambahin biar komit).
