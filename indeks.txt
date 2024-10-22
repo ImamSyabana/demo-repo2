@@ -1,1 +1,2 @@
-ini pengen bikin conflict merge (tambahin biar komit)
+ini pengen bikin conflict merge
+ (tambahin biar komit)
